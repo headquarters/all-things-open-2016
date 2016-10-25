@@ -9,7 +9,7 @@ Time/Day | Wednesday | Thursday
 08:45 |Welcome | Welcome Keynote 
 09:00 \ 09:00 |Keynote | Keynote
 10:15 \ 10:15 |Break | Break
-10:30 \ 10:15 |<ul><li>We don't need no stinking server</li><li>Backup: Don't get bootstrapped / We don't need no stinking servers</li></ul> | BDD Backup: Code Reivews
+10:30 \ 10:15 |<ul><li>We don't need no stinking server</li><li>Backup: Don't get bootstrapped / We don't need no stinking servers</li></ul> |<ul><li>BDD</li><li>Backup: Code Reivews</li></ul>
 11:15 \ 11:15 |Break | Break
 11:30 \ 11:30 |<ul><li>React Internals</li><li>Backup: Practical data structures in JS</li></ul>|<ul><li>WEB IS THE NEW MOBILE</li><li> Future of Node.js</li></ul>
 12:15 \ 12:15 |Lunch | Lunch
